@@ -1,4 +1,4 @@
-# Mitra Assignment - React Native Authentication App
+# Mitra - React Native Authentication App
 
 A production-ready authentication app built with Expo Router, Clerk, and React Native. Supports email/password login and OAuth (Google, Facebook, Apple) for both iOS and web platforms.
 
